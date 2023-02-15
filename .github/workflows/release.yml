@@ -4,11 +4,6 @@ on:
     types:
       - created
 
-permissions:
-  contents: 'read'
-  id-token: 'write'
-  issues: 'write'
-
 jobs:
 
   publish_on_linux:
